@@ -17,3 +17,12 @@ Le principal risque est la casse ou la perte des portables, avec 1 780 € provi
 
 Problématique
 La difficulté tient à la diversité des besoins : bureautique pour l’administration, mobilité pour les commerciaux, CAO 3D pour le bureau d’études, postes partagés en milieu poussiéreux pour l’atelier. Le directeur impose en outre un budget de 70 000 € HT, un matériel prévu pour 5 ans, un déploiement avant septembre, la protection des données, une solution gérable par deux techniciens, et la justification de la consommation électrique et de la fin de vie. Ces contraintes peuvent entrer en conflit, il faut donc arbitrer.
+
+Outils utilisés
+j’ai utilisé un tableur Excel  pour construire le classeur de chiffrage : hypothèses saisies une seule fois, besoins par profil, calcul du coût total de possession sur 5 ans par formules, et grille de comparaison pondérée. Les prix et les références viennent du classeur des catalogues fournisseurs (BURODIS Pro, NOMADIA Solutions, VIRTUALYS).
+J’ai réalisé le schéma de l’architecture retenue avec draw.io, puis préparé la note de recommandation d’une page et la présentation de 3 minutes.
+
+Bilan personnel
+Distinguer quatre profils (administration, commerciaux, bureau d’études, atelier) m’a montré qu’un même matériel ne pouvait pas convenir à tous, et que chaque choix devait se justifier par un usage.
+J’ai compris qu’un prix d’achat ne suffit pas pour décider. L’électricité, le temps des techniciens, les licences, la casse et la fin de vie changent le classement des solutions. Le scénario le moins cher à l’achat n’était pas celui qui répondait au besoin : les postes fixes laissaient les commerciaux sans appareil nomade, alors que les deux autres scénarios dépassaient le budget. J’ai aussi appris qu’une contrainte obligatoire écarte une solution avant toute comparaison, et que la meilleure réponse est parfois un compromis, comme la solution mixte que j’ai proposée.
+Sur le plan méthodologique, j’ai progressé dans la construction d’un classeur fiable : des hypothèses saisies une seule fois, des formules vérifiées sur un exemple connu avant de généraliser, et des résultats que je peux expliquer. Rédiger une note pour un directeur non technicien m’a aussi obligé à remplacer le jargon par des chiffres et à donner la conclusion dès la première phrase.
