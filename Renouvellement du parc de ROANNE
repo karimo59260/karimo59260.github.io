@@ -9,3 +9,11 @@ J’ai calculé le coût total de possession de trois scénarios (postes fixes, 
 J’ai écarté les scénarios qui violaient une contrainte obligatoire : le scénario A pour la mobilité des commerciaux, les scénarios B et C pour le dépassement du budget. J’ai alors construit une solution mixte qui donne à chaque profil l’équipement le moins cher qui lui convient. Elle coûte 62 308 € d’investissement et 91 965 € sur 5 ans.
 Le déploiement représente environ 64 heures de technicien, réalisables par deux personnes pendant les 3 semaines de fermeture de l’atelier en août. La commande doit être passée avant l’été. Les délais de livraison sont à confirmer auprès des fournisseurs.
 J’ai présenté le plan au directeur dans une note d’une page : la recommandation et son coût d’abord, puis les raisons du choix, les solutions écartées, les risques avec leur parade et la décision attendue. Le schéma de l’architecture retenue la complète.
+
+Résultat
+J'ai abouti à la recommandation d’une solution mixte pour les 40 postes du site de Roanne. Elle équipe l’administration, le bureau d’études et l’atelier de postes fixes, et les 8 commerciaux de portables chiffrés. Elle coûte 62 308 € HT d’investissement et 91 965 € HT sur 5 ans, soit 38,32 € par utilisateur et par mois.
+C’est la seule des quatre solutions étudiées qui respecte à la fois le budget de 70 000 € (avec 7 692 € de marge) et la mobilité des commerciaux. Les postes fixes pour tous étaient moins chers, mais sans appareil nomade pour les commerciaux. Les portables pour tous et les bureaux virtuels dépassaient le budget de 3 858 € et de 16 928 €.
+Le principal risque est la casse ou la perte des portables, avec 1 780 € provisionnés sur 5 ans. Le chiffrement protège les données dans ce cas. La variante cloud n’a pas été chiffrée
+
+Problématique
+La difficulté tient à la diversité des besoins : bureautique pour l’administration, mobilité pour les commerciaux, CAO 3D pour le bureau d’études, postes partagés en milieu poussiéreux pour l’atelier. Le directeur impose en outre un budget de 70 000 € HT, un matériel prévu pour 5 ans, un déploiement avant septembre, la protection des données, une solution gérable par deux techniciens, et la justification de la consommation électrique et de la fin de vie. Ces contraintes peuvent entrer en conflit, il faut donc arbitrer.
